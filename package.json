@@ -1,0 +1,28 @@
+{
+  "name": "didg",
+  "version": "1.0.0",
+  "description": "Internet Computer canister declarations loader (CLI)",
+  "bin": {
+    "didg": "didg.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZenVoich/didg.git"
+  },
+  "keywords": [
+    "ic",
+    "internet-computer",
+    "icp",
+    "did",
+    "candid",
+    "declarations",
+    "canister",
+    "cli"
+  ],
+  "author": "Zen Voich <zen.voich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZenVoich/didg/issues"
+  },
+  "homepage": "https://github.com/ZenVoich/didg#readme"
+}
