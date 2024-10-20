@@ -4,6 +4,7 @@ CLI tool to fetch canister's public candid metadata and generate JS/TS bindings.
 
 ## Prerequisites
 
+- [dfx](https://internetcomputer.org/docs/current/developer-docs/getting-started/install/#installing-dfx-via-dfxvm)
 - [didc](https://github.com/dfinity/candid/releases)
 
 ## Installation
