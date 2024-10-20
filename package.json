@@ -1,6 +1,6 @@
 {
   "name": "didg",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Internet Computer canister declarations loader (CLI)",
   "bin": {
     "didg": "didg.sh"
